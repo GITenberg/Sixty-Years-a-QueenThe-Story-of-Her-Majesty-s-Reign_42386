@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '40323'
     url: http://www.gutenberg.org/2009/agents/40323
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42386#Sixty-Years-a-QueenThe-Story-of-Her-Majesty-s-Reign
 gutenberg_issued: '2013-03-22'
 gutenberg_type: Text
 identifiers:
