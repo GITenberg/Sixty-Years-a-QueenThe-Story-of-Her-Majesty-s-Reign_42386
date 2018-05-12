@@ -1,0 +1,31 @@
+_repo: Sixty-Years-a-QueenThe-Story-of-Her-Majesty-s-Reign_42386
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42386-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maxwell, Herbert, Sir
+    aliases:
+    - Maxwell, Herbert E. (Herbert Eustace), Sir
+    - Maxwell, Herbert Eustace, Sir
+    - Maxwell, Sir Herbert
+    birthdate: 1845
+    deathdate: 1937
+    gutenberg_agent_id: '40323'
+    url: http://www.gutenberg.org/2009/agents/40323
+description: ''
+gutenberg_issued: '2013-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42386'
+  lccn: 02012148
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901'
+- !lcc 'DA'
+title: 'Sixty Years a Queen: The Story of Her Majesty''s Reign'
+url: http://www.gutenberg.org/ebooks/42386
